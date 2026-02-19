@@ -2,7 +2,7 @@
   "name": "mate-dim-theme",
   "displayName": "Mate Dim Theme",
   "description": "A dim, modern matte dark theme for VS Code.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "andrescespedesmorales",
   "engines": {
     "vscode": "^1.86.0"
